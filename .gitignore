@@ -1,0 +1,22 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+tempCodeRunnerFile.py
+
+# Cache VS code
+/.vscode/
+
+# Variables d'environnement / Clés d'API
+**/*.env
+
+# Fichier lié a mon bot
+main.py
+**/*.json
+
+# Fichier d'archive
+/archives/
